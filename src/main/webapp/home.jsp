@@ -14,6 +14,5 @@
 <body>
 <jsp:include page="_header.jsp"/>
 
-
 </body>
 </html>
